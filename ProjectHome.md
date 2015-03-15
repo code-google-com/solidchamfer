@@ -1,0 +1,3 @@
+Solid chamfering is a well known technique among modellers for creating sharp edges with hypernurbs. The basic idea is that to get perfect control of the sharpness of an edge, you need to add two extra control loops: one on either side of the original edge.
+
+This modeling technique is of course possible to achieve using c4d's native tools, but the SolidChamfer plugin makes this a 1-click operation. Just select the edges you want to chamfer and drag the mouse to get the desired chamfer radius.
